@@ -142,4 +142,4 @@ The model can:
 
 ## 🧑‍💻 Author
 **Developed by:** Ujwala Rapalli  
-**GitHub Repository:** [multi_disease_prediction](https://github.com/ujwala-rapalli/multi_disease_prediction) *(Update link to your credit risk repo)*  
+**GitHub Repository:** [credit-risk-predictor](https://github.com/ujwala-rapalli/credit-risk-predictor)
