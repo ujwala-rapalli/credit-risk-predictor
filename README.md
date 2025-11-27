@@ -143,3 +143,4 @@ The model can:
 ## 🧑‍💻 Author
 **Developed by:** Ujwala Rapalli  
 **GitHub Repository:** [credit-risk-predictor](https://github.com/ujwala-rapalli/credit-risk-predictor)
+**Live Demo:** [https://credit-riskpredictor.streamlit.app/](https://credit-riskpredictor.streamlit.app/)
